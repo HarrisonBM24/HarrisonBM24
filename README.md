@@ -7,8 +7,7 @@
 <br>
 
 - Desarrollador front-end y back-end autodidacta y apasionado
-- Actualmente estoy aprendiendo desarrollo web por mi cuenta
-- Actualmente estoy abierto a una oportunidades laborales, acá puedes descargar mi [Curriculum.pdf](https://github.com/user-attachments/files/21584436/Curriculum.pdf)
+- Actualmente estoy aprendiendo desarrollo web de manera autodidacta
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
