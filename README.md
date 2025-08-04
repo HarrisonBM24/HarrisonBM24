@@ -1,9 +1,10 @@
 
 <h1 align="center"><b>¡Qué tal, soy Harrison 👋 </b><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
-<!--  -->
 
 	
 **Acerca de mi**
+
+<br>
 
 - Desarrollador front-end y back-end autodidacta y apasionado
 - Actualmente estoy aprendiendo desarrollo web por mi cuenta
