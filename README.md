@@ -63,7 +63,7 @@
 <div align="center">
 
 <a href="https://github.com/HarrisonBM24/">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarrisonBM24&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="HarrisonBM24"/>
+  <img src="https://github-readme-stats.vercel.app/api/username=HarrisonBM24&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="HarrisonBM24"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarrisonBM24&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="HarrisonBM24"/>
 
 </a>
@@ -74,14 +74,6 @@
 <br>
 
 -----
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
