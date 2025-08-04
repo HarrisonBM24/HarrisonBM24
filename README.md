@@ -1,6 +1,5 @@
 
-<h1 align="center"><b>¡Qué tal, soy Harrison 👋 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<h1 align="center"><b>¡Qué tal, soy Harrison 👋 </b><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
 <!--  -->
 
 <br>
@@ -15,8 +14,6 @@
 - Actualmente estoy aprendiendo desarrollo web por mi cuenta
 - Actualmente estoy abierto a una oportunidades laborales, acá puedes descargar mi [Curriculum.pdf](https://github.com/user-attachments/files/21584436/Curriculum.pdf)
 
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
