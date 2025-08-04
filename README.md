@@ -11,7 +11,8 @@
 
 
 	
-## <picture><img src = "[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://avatars.githubusercontent.com/u/156035690?s=400&u=1c330bfac21cb91d095a8e9ba74ea68575a9037b&v=4)" width = 50px></picture> **About me**
+## <picture><img src = "<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8529ddaf-90fe-4739-bb84-f67e67888aa8" />
+" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -19,7 +20,7 @@
 
 - Desarrollador front-end y back-end autodidacta y apasionado
 - Actualmente estoy aprendiendo desarrollo web por mi cuenta
-- Actualmente estoy abierto a una oportunidad laboral, este es [Mi Curriculum][Curriculum.pdf](https://github.com/user-attachments/files/21584436/Curriculum.pdf)
+- Actualmente estoy abierto a una oportunidad laboral, este es [Curriculum.pdf](https://github.com/user-attachments/files/21584436/Curriculum.pdf)
 
 
 <br><br>
