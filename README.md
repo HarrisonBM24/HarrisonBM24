@@ -11,8 +11,7 @@
 
 
 	
-## <picture><img src = "<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8529ddaf-90fe-4739-bb84-f67e67888aa8" />
-" width = 50px></picture> **About me**
+**About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
